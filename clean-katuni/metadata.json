@@ -1,0 +1,5 @@
+{
+  "name": "Katuni",
+  "description": "An application that generates stunning animation videos from text prompts using the Gemini API. Describe your scene, and watch it come to life.",
+  "requestFramePermissions": []
+}
